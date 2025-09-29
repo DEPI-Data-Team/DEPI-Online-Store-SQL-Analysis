@@ -1,0 +1,1 @@
+-- SQL queries for CEO KPIs will be added here
