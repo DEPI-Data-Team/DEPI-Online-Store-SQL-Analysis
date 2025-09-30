@@ -26,11 +26,11 @@ The views will later be imported into Power Query and used for dashboards in Exc
 ---
 
 ## 👥 Team Members
-- **Mustafa Elshafey** (Team Leader)  
-- Asmaa Saber  
+- Asmaa Saber
+- **Mustafa Elshafey** (Team Leader)
+- Riham Salah    
 - Yassin Osama  
-- Yomna Khaled
-- Riham Salah  
+- Yomna Khaled  
 
 ---
 
